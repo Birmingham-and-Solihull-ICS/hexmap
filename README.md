@@ -193,7 +193,33 @@ geom_text(data = ics_map,aes(x = labelX, y = labelY, label = NHSER21NMSHT), colo
 
 ```
 
-|                                               |                                               |
+|   Hex geography                               |   Actual Geography                            |              
 |-----------------------------------------------|-----------------------------------------------|
 | <img width="100%" src="output3.png">          | <img width="100%" src="icsregionmap.png">     | 
 
+
+
+#### Plot a value
+
+As we have merged the geospatial data with our ICS data, it is easy to then display this.  Here I have used ggiraph to add an interactive element to the map. To do this you replace geom_sf() with gemo_sf_interactive(), and display the chart as  htmlwidget using girafe().  
+
+
+```{r produce map4},fig.align="center", echo=TRUE, fig.cap="Plotting values by ICS"}
+
+library(ggiraph)      #interactive charts
+
+tooltip_css <- "font:Arial;"
+
+gg_point=ggplot() +  
+  geom_sf_interactive(data = ics_map,aes( tooltip = value, data_id = ICS22NM, fill = value)) + 
+scale_fill_viridis_c(option = "F", trans = "sqrt")+ 
+  geom_text(data = ics_map,aes(x = labelX, y = labelY, label = ICS22NMSHT), colour="white")+
+  theme_void()
+
+girafe(ggobj = gg_point, 
+  options = list(opts_tooltip(use_fill = TRUE),
+                 opts_sizing(width = .7)))
+
+```
+
+![Plotting data](output4.png)
