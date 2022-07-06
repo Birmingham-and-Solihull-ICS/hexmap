@@ -1,0 +1,43 @@
+﻿STP21CD,STP21CDH,STP21NM,ICS22NM,NHSER21CD,NHSER21CDH,NHSER21NM,NHSER21NMSHT,value
+E54000007,QOP,Greater Manchester Health and Social Care Partnership,NHS Greater Manchester,E40000010,Y62,North West,NW,0.381808907
+E54000008,QYG,Cheshire and Merseyside,NHS Cheshire and Merseyside,E40000010,Y62,North West,NW,0.270802329
+E54000009,QF7,South Yorkshire and Bassetlaw,NHS South Yorkshire,E40000009,Y63,North East and Yorkshire,NEY,0.083311552
+E54000010,QNC,Staffordshire and Stoke on Trent,NHS Staffordshire and Stoke on Trent,E40000008,Y60,Midlands,Mid,0.985985958
+E54000011,QOC,Shropshire and Telford and Wrekin,NHS Shropshire and Telford and Wrekin,E40000008,Y60,Midlands,Mid,0.226577623
+E54000012,QJ2,Joined Up Care Derbyshire,NHS Derby and Derbyshire,E40000008,Y60,Midlands,Mid,0.820930507
+E54000013,QJM,Lincolnshire,NHS Lincolnshire,E40000008,Y60,Midlands,Mid,0.272628616
+E54000014,QT1,Nottingham and Nottinghamshire Health and Care,NHS Nottingham and Nottinghamshire,E40000008,Y60,Midlands,Mid,0.809160289
+E54000015,QK1,"Leicester, Leicestershire and Rutland","NHS Leicester, Leicestershire and Rutland",E40000008,Y60,Midlands,Mid,0.980470121
+E54000016,QUA,The Black Country and West Birmingham,NHS Black Country,E40000008,Y60,Midlands,Mid,0.404001885
+E54000017,QHL,Birmingham and Solihull,NHS Birmingham and Solihull,E40000008,Y60,Midlands,Mid,0.403526972
+E54000018,QWU,Coventry and Warwickshire,NHS Coventry and Warwickshire,E40000008,Y60,Midlands,Mid,0.466832627
+E54000019,QGH,Herefordshire and Worcestershire,NHS Herefordshire and Worcestershire,E40000008,Y60,Midlands,Mid,0.420496323
+E54000020,QPM,Northamptonshire,NHS Northamptonshire,E40000008,Y60,Midlands,Mid,0.814015065
+E54000021,QUE,Cambridgeshire and Peterborough,NHS Cambridgeshire and Peterborough,E40000007,Y61,East of England,EoE,0.023604706
+E54000022,QMM,Norfolk and Waveney Health and Care Partnership,NHS Norfolk and Waveney,E40000007,Y61,East of England,EoE,0.135498224
+E54000023,QJG,Suffolk and North East Essex,NHS Suffolk and North East Essex,E40000007,Y61,East of England,EoE,0.246438647
+E54000024,QHG,"Bedfordshire, Luton and Milton Keynes","NHS Bedfordshire, Luton and Milton Keynes",E40000007,Y61,East of England,EoE,0.973669894
+E54000025,QM7,Hertfordshire and West Essex,NHS Hertfordshire and West Essex,E40000007,Y61,East of England,EoE,0.513597543
+E54000026,QH8,Mid and South Essex,NHS Mid and South Essex,E40000007,Y61,East of England,EoE,0.22582708
+E54000027,QRV,North West London Health and Care Partnership,NHS North West London,E40000003,Y56,London,LDN,0.834368353
+E54000028,QMJ,North London Partners in Health and Care,NHS North Central London,E40000003,Y56,London,LDN,0.728285129
+E54000029,QMF,East London Health and Care Partnership,NHS North East London,E40000003,Y56,London,LDN,0.945249219
+E54000030,QKK,Our Healthier South East London,NHS South East London,E40000003,Y56,London,LDN,0.662462911
+E54000031,QWE,South West London Health and Care Partnership,NHS South West London,E40000003,Y56,London,LDN,0.958832923
+E54000032,QKS,Kent and Medway,NHS Kent and Medway,E40000005,Y59,South East,SE,0.526198651
+E54000034,QNQ,Frimley Health and Care ICS,NHS Frimley,E40000005,Y59,South East,SE,0.298663474
+E54000036,QT6,Cornwall and the Isles of Scilly Health and Social Care Partnership,NHS Cornwall and the Isles of Scilly ,E40000006,Y58,South West,SW,0.531691307
+E54000037,QJK,Devon,NHS Devon,E40000006,Y58,South West,SW,0.907398661
+E54000038,QSL,Somerset,NHS Somerset,E40000006,Y58,South West,SW,0.464936311
+E54000039,QUY,"Bristol, North Somerset and South Gloucestershire","NHS Bristol, North Somerset and South Gloucestershire",E40000006,Y58,South West,SW,0.736660984
+E54000040,QOX,"Bath and North East Somerset, Swindon and Wiltshire","NHS Bath and North East Somerset, Swindon and Wiltshire",E40000006,Y58,South West,SW,0.965627166
+E54000041,QVV,Dorset,NHS Dorset,E40000006,Y58,South West,SW,0.723857951
+E54000042,QRL,Hampshire and the Isle of Wight,NHS Hampshire and the Isle of Wight,E40000005,Y59,South East,SE,0.653626319
+E54000043,QR1,Gloucestershire,NHS Gloucestershire,E40000006,Y58,South West,SW,0.830085054
+E54000044,QU9,"Buckinghamshire, Oxfordshire and Berkshire West","NHS Buckinghamshire, Oxfordshire and Berkshire West",E40000005,Y59,South East,SE,0.594581627
+E54000048,QE1,Healthier Lancashire and South Cumbria,NHS Lancashire and South Cumbria,E40000010,Y62,North West,NW,0.596534355
+E54000050,QHM,Cumbria and North East,NHS North East and North Cumbria,E40000009,Y63,North East and Yorkshire,NEY,0.779436449
+E54000051,QOQ,"Humber, Coast and Vale",NHS Humber and North Yorkshire,E40000009,Y63,North East and Yorkshire,NEY,0.351485695
+E54000052,QXU,Surrey Heartlands Health and Care Partnership,NHS Surrey Heartlands,E40000005,Y59,South East,SE,0.399003445
+E54000053,QNX,Sussex Health and Care Partnership,NHS Sussex,E40000005,Y59,South East,SE,0.260535708
+E54000054,QWO,West Yorkshire and Harrogate (Health and Care Partnership),NHS West Yorkshire,E40000009,Y63,North East and Yorkshire,NEY,0.134155665
