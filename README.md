@@ -81,6 +81,7 @@ ics[1:5,c(1:4,12:25)]%>%arrange(row,col)%>%kbl(caption="ICS geometery")%>%
 
 ```
 
+![Table](output1.png)
 
 
 ## SF workflow
@@ -170,6 +171,8 @@ ggplot() +
 
 ```
 
+![First attempt](output2.png)
+
 Using geom_text(), I think it looks better, and the final map looks similar to the starting position
 
 ```{r produce map2, echo=TRUE}
@@ -189,3 +192,8 @@ geom_text(data = ics_map,aes(x = labelX, y = labelY, label = NHSER21NMSHT), colo
   theme_void()
 
 ```
+
+|                                               |                                               |
+|-----------------------------------------------|-----------------------------------------------|
+| <img width="100%" src="output3.png">          | <img width="100%" src="icsregionmap.png">     | 
+
