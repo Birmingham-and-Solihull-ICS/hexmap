@@ -82,7 +82,9 @@ ics[1:5,c(1:4,12:25)]%>%arrange(row,col)%>%kbl(caption="ICS geometery")%>%
 ```
 
 
+
 ## SF workflow
+
 
 <https://r-spatial.github.io/sf/index.html>
 
@@ -142,3 +144,48 @@ ics_map<-sp::merge(sfdf,ics) %>%
 icsdata<-icsdata%>%mutate(value=round(value,1))
 ```
  
+#### Plotting the map
+
+ggplot2() contains a geom for simple feature objects, geom_sf_data().
+
+There is a geom_sf_label, but I think geom_text() is better.
+
+```{r produce map,fig.align="center", echo=TRUE}
+#Join the data we want to map 
+ics_map<-ics_map%>%left_join(icsdata)
+
+ggplot() +
+   geom_sf(data=ics_map,aes(fill=NHSER21NMSHT))+
+  geom_sf_label(data=ics_map,aes(label = NHSER21NMSHT),
+  label.padding = unit(0.1, "lines"))+
+  labs(fill = "Region")+
+    scale_fill_manual(values = c("NW" = "#ed8b00",
+                                "NEY"="#0072ce",
+                                "Mid"="#78be20",
+                                "EoE"="#41b6e6",
+                                "SW"="#ae2573",
+                                "SE"="#330072",
+                                "LDN"="#ffb81c"))+
+  theme_void()
+
+```
+
+Using geom_text(), I think it looks better, and the final map looks similar to the starting position
+
+```{r produce map2, echo=TRUE}
+#using geom_text
+
+icsplot<-ggplot() +
+   geom_sf(data=ics_map,aes(fill=NHSER21NMSHT))+
+geom_text(data = ics_map,aes(x = labelX, y = labelY, label = NHSER21NMSHT), colour="white")+
+  labs(fill = "Region")+
+    scale_fill_manual(values = c("NW" = "#ed8b00",
+                                "NEY"="#0072ce",
+                                "Mid"="#78be20",
+                                "EoE"="#41b6e6",
+                                "SW"="#ae2573",
+                                "SE"="#330072",
+                                "LDN"="#ffb81c"))+
+  theme_void()
+
+```
