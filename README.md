@@ -26,12 +26,29 @@ Here is an example using UK constituencies <https://open-innovations.org/project
 <div style="text-align: center;">
 ![UK constituency hex map](map.svg){width="50%"}
   
-  ### Why hexagons? 
+### Why hexagons? 
 
-:::: {style="display: grid; grid-template-columns: 1fr 120px; grid-column-gap: 10px; "}
-
-::: {}
 
 Hexagons are a good shape to work with as the distances between its points are regular due to its internal symmetry.
 
 There are two orientations you can use pointed or flat tops. Basically rotate the hexagon by 90degrees. Pointed-top hexes take up more vertical room, so can be better for portrait orientation.The choice is yours depending on your aesthetics. You can learn more about hexagon geomtery at https://hexnet.org/content/hexagonal-geometry.
+
+ <div style="text-align: center;">
+![Heaxgon geometry]('hexgeomRW.png'){width="50%"}
+  
+## Mapping the ICS geography
+
+There are no tools to build hex maps from shapefiles. So you have to get out paper and pencil/ipad/hex stickers and a wall to map out the relative positions of the objects you want to map. I used a hex paper image and ipad. One free resource for printing hex paper is https://incompetech.com/graphpaper/hexagonal/ . 
+
+There is no science to this, it really is what works best for the geography you are working with.  This is an example of my rough working where to put STP/ICS.   
+   
+    <div style="text-align: center;">
+![Heaxgon geometry]('hexworking.png'){width="50%"}
+      
+      The co-ordinates are kept quite simple by setting the width and height to be 4 units. Then using the row and column positions (starting from the origin - bottom left) to build the co-ordinates. So in my mapping Cornwall is in row 1 and column 1, and so on.  
+
+The end result of all this plotting is a table of with a row for every hex and 7 not 6 points, you have to complete the shape.
+
+     <div style="text-align: center;">
+![Heaxgon geometry]('hexcoords.png'){width="50%"}     
+      
