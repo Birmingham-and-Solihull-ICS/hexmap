@@ -1,0 +1,43 @@
+﻿ICS22NMSHT,ICS22NM,row,col,STP21CDH,STP21CD,NHSER21CD,NHSER21CDH,NHSER21NM,NHSER21NMSHT,STP21NM
+COR,NHS Cornwall and the Isles of Scilly ,1,1,QT6,E54000036,E40000006,Y58,South West,SW,Cornwall and the Isles of Scilly Health and Social Care Partnership
+DEV,NHS Devon,2,3,QJK,E54000037,E40000006,Y58,South West,SW,Devon
+DOR,NHS Dorset,2,7,QVV,E54000041,E40000006,Y58,South West,SW,Dorset
+HAM,NHS Hampshire and the Isle of Wight,2,11,QRL,E54000042,E40000005,Y59,South East,SE,Hampshire and the Isle of Wight
+FRI,NHS Frimley,2,15,QNQ,E54000034,E40000005,Y59,South East,SE,Frimley Health and Care ICS
+SUR,NHS Surrey Heartlands,2,19,QXU,E54000052,E40000005,Y59,South East,SE,Surrey Heartlands Health and Care Partnership
+SUS,NHS Sussex,2,23,QNX,E54000053,E40000005,Y59,South East,SE,Sussex Health and Care Partnership
+KM,NHS Kent and Medway,2,27,QKS,E54000032,E40000005,Y59,South East,SE,Kent and Medway
+SOM,NHS Somerset,3,5,QSL,E54000038,E40000006,Y58,South West,SW,Somerset
+BNSSG,"NHS Bristol, North Somerset and South Gloucestershire",3,9,QUY,E54000039,E40000006,Y58,South West,SW,"Bristol, North Somerset and South Gloucestershire"
+BNES,"NHS Bath and North East Somerset, Swindon and Wiltshire",3,13,QOX,E54000040,E40000006,Y58,South West,SW,"Bath and North East Somerset, Swindon and Wiltshire"
+BOB,"NHS Buckinghamshire, Oxfordshire and Berkshire West",3,17,QU9,E54000044,E40000005,Y59,South East,SE,"Buckinghamshire, Oxfordshire and Berkshire West"
+SWL,NHS South West London,3,21,QWE,E54000031,E40000003,Y56,London,LDN,South West London Health and Care Partnership
+SEL,NHS South East London,3,25,QKK,E54000030,E40000003,Y56,London,LDN,Our Healthier South East London
+GLO,NHS Gloucestershire,4,7,QR1,E54000043,E40000006,Y58,South West,SW,Gloucestershire
+C&W,NHS Coventry and Warwickshire,4,11,QWU,E54000018,E40000008,Y60,Midlands,Mid,Coventry and Warwickshire
+BLMK,"NHS Bedfordshire, Luton and Milton Keynes",4,15,QHG,E54000024,E40000007,Y61,East of England,EoE,"Bedfordshire, Luton and Milton Keynes"
+NWL,NHS North West London,4,19,QRV,E54000027,E40000003,Y56,London,LDN,North West London Health and Care Partnership
+NCL,NHS North Central London,4,23,QMJ,E54000028,E40000003,Y56,London,LDN,North London Partners in Health and Care
+NEL,NHS North East London,4,27,QMF,E54000029,E40000003,Y56,London,LDN,East London Health and Care Partnership
+HW,NHS Herefordshire and Worcestershire,5,5,QGH,E54000019,E40000008,Y60,Midlands,Mid,Herefordshire and Worcestershire
+BSol,NHS Birmingham and Solihull,5,9,QHL,E54000017,E40000008,Y60,Midlands,Mid,Birmingham and Solihull
+NOR,NHS Northamptonshire,5,13,QPM,E54000020,E40000008,Y60,Midlands,Mid,Northamptonshire
+HWE,NHS Hertfordshire and West Essex,5,17,QM7,E54000025,E40000007,Y61,East of England,EoE,Hertfordshire and West Essex
+C&P,NHS Cambridgeshire and Peterborough,5,21,QUE,E54000021,E40000007,Y61,East of England,EoE,Cambridgeshire and Peterborough
+MSE,NHS Mid and South Essex,5,25,QH8,E54000026,E40000007,Y61,East of England,EoE,Mid and South Essex
+SNEE,NHS Suffolk and North East Essex,5,29,QJG,E54000023,E40000007,Y61,East of England,EoE,Suffolk and North East Essex
+SHR,NHS Shropshire and Telford and Wrekin,6,7,QOC,E54000011,E40000008,Y60,Midlands,Mid,Shropshire and Telford and Wrekin
+BC,NHS Black Country,6,11,QUA,E54000016,E40000008,Y60,Midlands,Mid,The Black Country and West Birmingham
+LEI,"NHS Leicester, Leicestershire and Rutland",6,15,QK1,E54000015,E40000008,Y60,Midlands,Mid,"Leicester, Leicestershire and Rutland"
+DER,NHS Derby and Derbyshire,6,19,QJ2,E54000012,E40000008,Y60,Midlands,Mid,Joined Up Care Derbyshire
+NOT,NHS Nottingham and Nottinghamshire,6,23,QT1,E54000014,E40000008,Y60,Midlands,Mid,Nottingham and Nottinghamshire Health and Care
+N&W,NHS Norfolk and Waveney,6,27,QMM,E54000022,E40000007,Y61,East of England,EoE,Norfolk and Waveney Health and Care Partnership
+C&M,NHS Cheshire and Merseyside,7,9,QYG,E54000008,E40000010,Y62,North West,NW,Cheshire and Merseyside
+S&S,NHS Staffordshire and Stoke on Trent,7,13,QNC,E54000010,E40000008,Y60,Midlands,Mid,Staffordshire and Stoke on Trent
+SY,NHS South Yorkshire,7,17,QF7,E54000009,E40000009,Y63,North East and Yorkshire,NEY,South Yorkshire and Bassetlaw
+LIN,NHS Lincolnshire,7,21,QJM,E54000013,E40000008,Y60,Midlands,Mid,Lincolnshire
+MAN,NHS Greater Manchester,8,11,QOP,E54000007,E40000010,Y62,North West,NW,Greater Manchester Health and Social Care Partnership
+WY,NHS West Yorkshire,8,15,QWO,E54000054,E40000009,Y63,North East and Yorkshire,NEY,West Yorkshire and Harrogate (Health and Care Partnership)
+HNY,NHS Humber and North Yorkshire,8,19,QOQ,E54000051,E40000009,Y63,North East and Yorkshire,NEY,"Humber, Coast and Vale"
+L&SC,NHS Lancashire and South Cumbria,9,13,QE1,E54000048,E40000010,Y62,North West,NW,Healthier Lancashire and South Cumbria
+NENC,NHS North East and North Cumbria,9,17,QHM,E54000050,E40000009,Y63,North East and Yorkshire,NEY,Cumbria and North East
